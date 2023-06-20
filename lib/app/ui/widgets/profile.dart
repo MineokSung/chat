@@ -22,7 +22,7 @@ class Profile extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.end,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          if(isMe)//d
+          if(isMe)//a
             ...[
               Container(
                 width: 50,
