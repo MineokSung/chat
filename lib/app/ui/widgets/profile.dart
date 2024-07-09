@@ -37,7 +37,7 @@ class Profile extends StatelessWidget {
               ),
             ],
 
-          Expanded(asdasdasdasdasdasd
+          Expanded(asdasdasdasdasdasdasd
             child: Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: isMe ? CrossAxisAlignment.start : CrossAxisAlignment.end,
